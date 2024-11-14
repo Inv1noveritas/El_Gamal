@@ -1,0 +1,13 @@
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\obj\Debug\netcoreapp3.1\El-Gamal.csprojAssemblyReference.cache
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\obj\Debug\netcoreapp3.1\El-Gamal.AssemblyInfoInputs.cache
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\obj\Debug\netcoreapp3.1\El-Gamal.AssemblyInfo.cs
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\obj\Debug\netcoreapp3.1\El-Gamal.csproj.CoreCompileInputs.cache
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\bin\Debug\netcoreapp3.1\El-Gamal.exe
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\bin\Debug\netcoreapp3.1\El-Gamal.deps.json
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\bin\Debug\netcoreapp3.1\El-Gamal.runtimeconfig.json
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\bin\Debug\netcoreapp3.1\El-Gamal.runtimeconfig.dev.json
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\bin\Debug\netcoreapp3.1\El-Gamal.dll
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\bin\Debug\netcoreapp3.1\El-Gamal.pdb
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\obj\Debug\netcoreapp3.1\El-Gamal.dll
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\obj\Debug\netcoreapp3.1\El-Gamal.pdb
+D:\учеба\криптовалюта\El-Gamal\El-Gamal\obj\Debug\netcoreapp3.1\El-Gamal.genruntimeconfig.cache
